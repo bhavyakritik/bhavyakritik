@@ -1,8 +1,4 @@
-# Welcome to my GitHub profile 👋
-
-### About me
-🌱 I'm Bhavya! An ECE Student learning how git works.</br>
-🔭 I’m currently working on 5G/6G project at IIT Hyderabad
+# Welcome to my GitHub profile 
 
 ### Contact me 
 Find me over on the (kbhavyakriti@gmail.com) / (https://www.linkedin.com/in/bhavya-kriti-karnakoti/)
